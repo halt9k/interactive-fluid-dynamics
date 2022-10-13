@@ -13,7 +13,7 @@ Sources are placed in my private repo and if this account became unresponsive fo
 
 On the next images:  
 - Two fluids are presented, they can also be intuitevly thought of "blue = air", "light green = water" or similar.
-- Red lines are dynamically claculated streamlines, i.e. if an external particle appears in the fluid, it will travel along these lines.  
+- Red lines are dynamically calculated streamlines, i.e. if an external particle appears in the fluid, it will travel along these lines.  
 Color of streamlines varies slightly from black to red because it directly relates to velocity (reddier = faster).  
 Streamlines can intersect border between fluids not because this is correct, but because streamlines calculation was simplified.
 
