@@ -7,7 +7,7 @@ Based on heavily interfaced and updated sources https://github.com/wme7/openLBMf
 
 Made with c++, DirectX, Qt UI, OpenMP optimizations
 
-Source code has too raw quality to be published, however - if will be free (not guaranteed now due to political situation) and  
+Source code has too raw quality to be published, however - if will be free (not guaranteed now due to political situation) and
 if will have time - there are plans to finish, polish and publish it. 
 Sources are placed in my private repo and if this account became unresponsive for more than 6mon I give permision to public them.
 
