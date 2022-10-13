@@ -1,10 +1,10 @@
-# Bounded ellipsoid
+# Hydrodynamics realtime demo: whirlpool formation in hourglass
 
-This is sandbox setup for random search alg which finds:  
-- bounded 2-foci ellipsoid around 3D point cloud  
+This is exe only demo (without source code) sandbox for fluid dynamics.
+Based on heavily interfaced and updated sources https://github.com/wme7/openLBMflow.
 
-It additionally has visualization animation steps if they required for any reason.  
+Source code has too raw quality to be published, however if will be alive (not guaranteed now due to political situation) and 
+if will have time there are plans to finish, polish and publish it. 
+Sources are placed in my private repositories and if this account became unresponsive for more than 6mon I give permision to reveal it.
 
-Will produce as output this type of plots:
-
-![Output examples:](https://github.com/halt9k/Bounded_ellipsoid/blob/master/desc/Desc.png?raw=true)
+![Output examples:](https://github.com/halt9k/hydrodynamics-demo-whirlpool/blob/master/desc/Desc.png?raw=true)
