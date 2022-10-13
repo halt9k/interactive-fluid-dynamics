@@ -18,10 +18,14 @@ Color of streamlines varies slightly from black to red because it directly relat
 Streamlines can intersect border between fluids not because this is correct, but because streamlines calculation was simplified.
 
 
-Applying potential force to two phase fluid:  
-**![Full dynamics](https://raw.githubusercontent.com/halt9k/interactive-fluid-dynamics/main/desc/Simple.mp4)**  
-![Preview](https://github.com/halt9k/interactive-fluid-dynamics/blob/main/desc/Simple.png?raw=true)  
+Applying potential force to two phase fluid:
+**![full process video](https://raw.githubusercontent.com/halt9k/interactive-fluid-dynamics/main/desc/Simple.mp4)**  
 
-Same, but with initial disturbance:  
-**![Full dynamics](https://raw.githubusercontent.com/halt9k/interactive-fluid-dynamics/main/desc/Whirpool.mp4)**  
-![Preview](https://github.com/halt9k/interactive-fluid-dynamics/blob/main/desc/Whirpool.png?raw=true)  
+Preview:  
+![](https://github.com/halt9k/interactive-fluid-dynamics/blob/main/desc/Simple.png?raw=true)  
+
+Same, but with initial disturbance:
+**![full process video](https://raw.githubusercontent.com/halt9k/interactive-fluid-dynamics/main/desc/Whirpool.mp4)**  
+
+Preview:  
+![](https://github.com/halt9k/interactive-fluid-dynamics/blob/main/desc/Whirpool.png?raw=true)  
