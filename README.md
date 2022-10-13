@@ -1,4 +1,4 @@
-# Hydrodynamics realtime demo: whirlpool formation in hourglass
+# Hydrodynamics realtime demo: whirlpool formation in a hourglass
 
 This is bianry demo (without source code) sandbox for fluid dynamics.  
 Based on heavily interfaced and updated sources https://github.com/wme7/openLBMflow.
