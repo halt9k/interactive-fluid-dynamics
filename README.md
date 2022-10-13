@@ -13,8 +13,8 @@ Sources are placed in my private repo and if this account became unresponsive fo
 
 Applying potential force to two phase fluid:  
 **![Full dynamics](https://raw.githubusercontent.com/halt9k/interactive-fluid-dynamics/main/desc/Simple.mp4)**  
-![Preview](https://github.com/halt9k/interactive-fluid-dynamics/main/desc/Simple.png?raw=true)  
+![Preview](https://github.com/halt9k/interactive-fluid-dynamics/blob/main/desc/Simple.png?raw=true)  
 
 Same, but with initial disturbance:  
 **![Full dynamics](https://raw.githubusercontent.com/halt9k/interactive-fluid-dynamics/main/desc/Whirpool.mp4)**  
-![Preview](https://github.com/halt9k/interactive-fluid-dynamics/main/desc/Whirpool.png?raw=true)  
+![Preview](https://github.com/halt9k/interactive-fluid-dynamics/blob/main/desc/Whirpool.png?raw=true)  
