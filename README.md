@@ -9,5 +9,8 @@ Source code has too raw quality to be published, however if will be alive (not g
 if will have time there are plans to finish, polish and publish it. 
 Sources are placed in my private repo and if this account became unresponsive for more than 6mon I give permision to publish them.
 
-![Applying potential force to two phase fluid:](https://github.com/halt9k/hydrodynamics-demo-whirlpool/blob/main/desc/Simple.mp4?raw=true)
-![Same, but with initial disturbance:](https://github.com/halt9k/hydrodynamics-demo-whirlpool/blob/main/desc/Whirpool.mp4?raw=true)
+Applying potential force to two phase fluid:  
+https://github.com/halt9k/hydrodynamics-demo-whirlpool/blob/main/desc/Simple.mp4
+
+Same, but with initial disturbance:  
+https://github.com/halt9k/hydrodynamics-demo-whirlpool/blob/main/desc/Whirpool.mp4
