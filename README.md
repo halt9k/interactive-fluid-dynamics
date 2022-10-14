@@ -31,5 +31,5 @@ Preview:
 ![](https://github.com/halt9k/interactive-fluid-dynamics/blob/main/desc/Whirpool.png?raw=true)  
 
 
-Code parallelization (omp directives) test on 8 core CPU:
+Code parallelization (omp directives) test on 8 core CPU:  
 ![](https://github.com/halt9k/interactive-fluid-dynamics/blob/main/desc/Parallelization.png?raw=true)  
