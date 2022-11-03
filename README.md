@@ -7,15 +7,13 @@ Based on heavily interfaced and updated sources https://github.com/wme7/openLBMf
 
 Made with c++, DirectX, Qt UI, OpenMP optimizations
 
-Source code has too raw quality to be published, however - if will be free (not guaranteed now due to political situation) and
-if will have time - there are plans to finish, polish and publish it. 
-Sources are placed in my private repo and if this account became unresponsive for more than 6mon I give permission to public them.
+Sources has too raw quality yet to be published, but may provide them on request.
 
 On the next images:  
-- Two fluids are presented, they can also be intuitively thought of "blue = air", "light green = water" or similar.
+- Two fluids are simulated, in this setup they bechave close to low dense bubble (~air) in liquid.
 - Red lines are dynamically calculated streamlines, i.e. if an external particle appears in the fluid, it will travel along these lines.  
 Color of streamlines varies slightly from black to red because it directly relates to velocity (reddier = faster).  
-Streamlines can intersect border between fluids not because this is correct, but because streamlines calculation was simplified.
+Streamlines can intersect border between fluids because of simplified calculations.
 
 
 Applying potential force to two phase fluid:
