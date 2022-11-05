@@ -1,4 +1,4 @@
-# Fluid dynamics real-time demo
+# Interactive fluid dynamics
 
 **Hardcoded preset - whirlpool formation in a hourglass**
 
