@@ -7,7 +7,7 @@ Based on heavily interfaced and updated sources https://github.com/wme7/openLBMf
 
 Made with c++, DirectX, Qt UI, OpenMP optimizations
 
-Sources has too raw quality yet to be published, but may provide them on request.
+Sources have too raw quality yet to be published, but may provide them on request.
 
 On the next images:  
 - Two fluids are simulated, in this setup they bechave close to low dense bubble (~air) in liquid.
